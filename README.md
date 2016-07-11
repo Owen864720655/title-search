@@ -1,6 +1,8 @@
 # title-search
 
-	简单的标题搜索,核心思想就是"内存hash ＋ ID list"。演示效果如下：
+	简单的标题搜索,核心思想就是"内存hash ＋ ID list"。
+
+# 演示效果
  ![Alt 演示效果](/doc/jg.jpg "演示效果")
 
 # "内存hash ＋ ID list"概述
